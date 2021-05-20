@@ -49,11 +49,11 @@ Publications
 
 Personal Projects
 ======
-[RecapBot](https://devpost.com/software/hackathon-chat) Implemented summarisation of chat-room messages as part of a chat bot. The bot won ‘Best use of Cisco Spark API’ at TechCrunch Disrupt London 2016.
+* [**RecapBot**](https://devpost.com/software/hackathon-chat) Implemented summarisation of chat-room messages as part of a chat bot. The bot won ‘Best use of Cisco Spark API’ at TechCrunch Disrupt London 2016.
 
-[Cattche](https://github.com/Asselinka/coolbeans) Acted as CTO of Cattche - an iOS recommendation mobile app coded in Swift on Xcode.
+* [**Cattche**](https://github.com/Asselinka/coolbeans) Acted as CTO of Cattche - an iOS recommendation mobile app coded in Swift on Xcode.
 
-[FilmPicker](https://github.com/kasimayy/FilmPicker) A web application built using Flask for storing and choosing films you’d like to watch.
+* [**FilmPicker**](https://github.com/kasimayy/FilmPicker) A web application built using Flask for storing and choosing films you’d like to watch.
 
 Talks
 ======
