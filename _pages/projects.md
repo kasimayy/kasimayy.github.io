@@ -15,6 +15,12 @@ RecapBot
 
 Cattche
 ======
-![image]({{ "/images/cattche_logo.jpg" | relative-path }}){: .page_image_left} An iOS mobile app coded in Swift on Xcode that allows you to store and rate your places of interest, share them with your friends and receive personalised recommendations. I acted as CTO alongside a close friend and CEO Assel Kashkenbayeva as we developed the app and well as the business plan, pitching it as part of UCLe Ventures.
+![image]({{ "/images/cattche_logo.png" | relative-path }}){: .page_image_left} An iOS mobile app coded in Swift on Xcode that allows you to store and rate your places of interest, share them with your friends and receive personalised recommendations. I acted as CTO alongside a close friend and CEO Assel Kashkenbayeva as we developed the app and well as the business plan, pitching it as part of UCLe Ventures.
 
 [Github](https://github.com/Asselinka/coolbeans)
+
+FilmPicker
+======
+A web application built using Flask for storing and choosing films you'd like to watch.
+
+[Github](https://github.com/kasimayy/FilmPicker)
