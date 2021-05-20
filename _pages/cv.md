@@ -55,12 +55,6 @@ Personal Projects
 
 * [**FilmPicker**](https://github.com/kasimayy/FilmPicker) A web application built using Flask for storing and choosing films you’d like to watch.
 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
 Skills
 ======
 * Tensorflow/Keras
