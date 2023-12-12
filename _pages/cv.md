@@ -9,9 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+Current Employment
+======
+2012-Present
+:   **Machine Learning Research Scientist**; Optellum\
+    *Role: Research and development of deep learning solutions for lung cancer diagnostics.*
+
 Education
 ======
-2016-2021 (expected)
+2016-2021
 :   **PhD, Computer Science**; Imperial College London\
     *Thesis title: Deep Learning Methods for Generating Semantically Enriched Diagnostics for Radiological Images.*
 
