@@ -13,7 +13,13 @@ Current Employment
 ======
 2012-Present
 :   **Machine Learning Research Scientist**; Optellum\
-    *Role: Research and development of deep learning solutions for lung cancer diagnostics.*
+    *Role: Research and development of deep learning solutions for lung cancer diagnostics. Responsibilities include:*
+    
+    - Researching current s.o.t.a in deep learning/computer vision techniques for training on small medical imaging datasets.
+    - Developing prototypes for lung cancer diagnostic prediction from images as well as multi-modal data.
+    - Developing NLP for clinical information extraction from radiology reports.
+    - Working with clinicians to create datasets for effective training and validation of ML models.
+    - Working with clinicians to validate ML models and publish results in international clinical conferencecs.
 
 Education
 ======
