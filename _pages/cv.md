@@ -11,7 +11,7 @@ redirect_from:
 
 Current Employment
 ======
-2012-Present
+2021-Present
 :   **Machine Learning Research Scientist**; Optellum\
     *Role: Research and development of deep learning solutions for lung cancer diagnostics. Responsibilities include:*
     
