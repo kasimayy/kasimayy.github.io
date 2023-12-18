@@ -69,12 +69,14 @@ Personal Projects
 
 Skills
 ======
-* Tensorflow/Keras
+* Pytorch
 * Deep Learning
+  * Image Modelling
   * Image Captioning
-  * Language Modelling
+  * Large Language Modelling
   * NLP, image processing
 * Deep Learning for Medical Imaging
+  * Lung CT
   * Brain MRI/DWI
   * Chest X-rays
-  * Clinical report modelling
+  * Radiological report modelling
