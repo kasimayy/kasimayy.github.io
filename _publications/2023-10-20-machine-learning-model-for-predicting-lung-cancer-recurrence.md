@@ -3,7 +3,7 @@ title: "Machine learning model for predicting lung cancer recurrence after surgi
 collection: publications
 permalink: /publication/machine-learning-model-for-predicting-lung-cancer-recurrence
 excerpt: 'ML model outperforms clinical staging prediction of lung cancer recurrence in preoperative settings.'
-date: 2032-10-20
+date: 2023-10-20
 venue: 'ESMO Abstracts'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0923753423015831'
 citation: 'Valter A., Kordemets T., Gasimova A., Waterfield Price N., Freitag L., Vanakesa T., Almre I., Oselin K. (2023). &quot;Machine learning model for predicting lung cancer recurrence after surgical treatment: A retrospective study using NLST and European hospital data.&quot; <i>ESMO</i>.'
