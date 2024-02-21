@@ -1,12 +1,13 @@
 ---
-title: "Identifying Patients With Pulmonary Nodules From CT Radiology Reports Using Natural Language Processing (NLP)"
+title: "Machine learning model for predicting lung cancer recurrence after surgical treatment: A retrospective study using NLST and European hospital data"
 collection: publications
-permalink: /publication/identifying-patients-with-pulmonary-nodules
-excerpt: 'Patients with incidental pulmonary nodules that require follow-up can be identified and managed using automated NLP.'
-date: 2023-05-24
-venue: 'ATS Abstracts'
-paperurl: 'https://www.atsjournals.org/doi/abs/10.1164/ajrccm-conference.2023.207.1_MeetingAbstracts.A6516'
-citation: 'Dotson T.L., Gasimova A., Watkins J., Chometon Q., Bellinger  C.R., (2023). &quot;Identifying Patients With Pulmonary Nodules From CT Radiology Reports Using Natural Language Processing (NLP).&quot; <i>ATS</i>.'
+permalink: /publication/machine-learning-model-for-predicting-lung-cancer-recurrence
+excerpt: 'ML model outperforms clinical staging prediction of lung cancer recurrence in preoperative settings.'
+date: 2023-10-20
+venue: 'ESMO Abstracts'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0923753423015831'
+citation: 'Valter A., Kordemets T., Gasimova A., Waterfield Price N., Freitag L., Vanakesa T., Almre I., Oselin K. (2023). &quot;Machine learning model for predicting lung cancer recurrence after surgical treatment: A retrospective study using NLST and European hospital data.&quot; <i>ESMO</i>.'
 ---
-Up to 31% of chest CT examinations report an incidental lung nodule (ILN). Previous studies estimate that around 60% of patients with ILNs can be lost to follow-up. One proposed reason is the lack of personnel to manage longitudinal surveillance, leading to either no follow-up or follow-up that does not adhere to guidelines, especially for patients coming from the emergency department. There is an unmet need for health care systems to automatically and accurately identify ILNs for appropriate follow-up. To help address this problem, we evaluated an automated method of identifying nodule patients from free-text CT radiology reports that can be tracked by a dedicated nodule navigator.
-[Poster](https://kasimayy.github.io/files/ats_2023_poster.pdf)
+
+The rate of lung cancer recurrence following curative surgical resection is 30-55% and remains a significant challenge in patient management. Accurate prediction of recurrence risk is crucial for guiding treatment decisions, such as the use of (neo-)adjuvant chemo- or immunotherapy, the extent of lung resection, and follow-up strategies. We present a preoperative machine learning model that uses patient computed tomography (CT) images and demographic features to predict lung cancer recurrence.
+[Poster](https://kasimayy.github.io/files/esmo_2023_poster.pdf)
