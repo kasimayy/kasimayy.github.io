@@ -12,4 +12,5 @@ citation: 'Valter A., Kordemets T., Gasimova A., Heames B., Waterfield Price N.,
 Accurate prediction of lung cancer recurrence risk is crucial for treatment decisions and follow-up, particularly for Stage I patients who are not eligible for (neo-)adjuvant therapy but approximately one-third still recur after surgical resection. We present a machine learning model that uses patient computed tomography (CT) images and clinical features to predict lung cancer recurrence.
 
 [Paper link](https://www.sciencedirect.com/science/article/abs/pii/S0923753424027923)
+
 [Poster](https://kasimayy.github.io/files/esmo_2024_poster.pdf)
